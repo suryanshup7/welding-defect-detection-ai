@@ -81,4 +81,4 @@ dataset_yaml = {
 with open(os.path.join(output, "data.yaml"), 'w') as f:
     yaml.dump(dataset_yaml, f, sort_keys=False)
 
-print(f"✅ Created {len(train_files)} Train, {len(val_files)} Val, and {len(test_files)} Test files.")
+print(f" Created {len(train_files)} Train, {len(val_files)} Val, and {len(test_files)} Test files.")

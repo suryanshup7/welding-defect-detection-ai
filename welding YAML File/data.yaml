@@ -1,0 +1,12 @@
+path: /Users/surya/Desktop/Siemens Energy/welding YAML File
+train: images/train
+val: images/val
+test: images/test
+nc: 6
+names:
+  0: Lump defect
+  1: Spatter defect
+  2: Pin hole defect
+  3: Chips & Burr
+  4: Undercut defect
+  5: Welding protrusion
