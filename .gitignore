@@ -1,7 +1,7 @@
 # Dataset
-welding defects image/
-labels_siemens-energy-annotation/
-welding YAML File/welding YAML File
+"welding defects image/"
+"labels_siemens-energy-annotation/"
+"welding YAML File/"
 
 # YOLO outputs
 runs/
